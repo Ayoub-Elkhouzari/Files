@@ -1,0 +1,12 @@
+MNGw24
+
+
+** pip install pipenv // to install the env
+
+** pipenv shell // to activate the env
+
+**  pipenv  install PyQt5  // to install the PyQt5 modules
+
+**pipenv install pyqt5-tools  // to install the Tools needed
+
+** code .
